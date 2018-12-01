@@ -1,0 +1,9 @@
+*.log
+api-key.txt
+
+archive/
+fluorine/
+hlt_client/
+halite3-match-manager/
+pypy3-v6.0.0-linux64/
+replays
